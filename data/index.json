@@ -10,6 +10,17 @@
       "arquivo": "data/provas/cm1-parcial-t80.json",
       "n_fechadas": 22,
       "n_abertas": 3
+    },
+    {
+      "id": "cm1-parcial-t79",
+      "disciplina": "Clínica Médica I",
+      "sigla": "CM1",
+      "avaliacao": "Avaliação parcial",
+      "turma": "79",
+      "periodo": null,
+      "arquivo": "data/provas/cm1-parcial-t79.json",
+      "n_fechadas": 22,
+      "n_abertas": 3
     }
   ]
 }
