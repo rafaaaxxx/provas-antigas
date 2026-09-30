@@ -1,0 +1,393 @@
+{
+  "id": "cm1-parcial-t80",
+  "disciplina": "Clínica Médica I",
+  "sigla": "CM1",
+  "avaliacao": "Avaliação parcial",
+  "turma": "80",
+  "periodo": null,
+  "fonte": "CM1 - Parcial 80.pdf",
+  "questoes": [
+    {
+      "numero": 1,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 58 anos, com diabetes mellitus tipo 2 e hipertensão arterial sistêmica há 15 anos, apresenta creatinina sérica de 1,8 mg/dL, com taxa de filtração glomerular estimada (TFGe) de 42 mL/min/1,73 m² e relação albumina/creatinina urinária de 420 mg/g. Esses achados foram confirmados em duas avaliações com intervalo de 3 meses. O exame de urina tipo I não mostrou hematúria, e a ultrassonografia renal evidenciou rins de tamanho discretamente reduzido, com aumento da ecogenicidade cortical.",
+      "comando": "Com base nos critérios diagnósticos e na definição operacional da doença renal crônica (DRC), assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O diagnóstico de DRC só pode ser estabelecido se houver redução da TFGe associada a alterações estruturais renais obrigatórias em exame de imagem, como redução do tamanho renal.",
+        "B": "O diagnóstico de doença renal crônica só pode ser confirmado após definição etiológica específica da lesão renal, preferencialmente por meio de biópsia renal, não sendo suficiente a demonstração de redução persistente da TFGe associada à albuminúria.",
+        "C": "O diagnóstico de DRC está estabelecido pela presença persistente de TFGe < 60 mL/min/1,73 m² e albuminúria ≥ 30 mg/g por mais de 3 meses, independentemente da etiologia ou da presença de sintomas.",
+        "D": "A confirmação diagnóstica de DRC requer necessariamente a demonstração de progressão da perda da função renal ao longo do tempo, caracterizada por queda anual da TFGe superior a 5 mL/min/1,73 m²."
+      },
+      "gabarito": "C",
+      "justificativa": "A doença renal crônica é definida pela presença de anormalidades da estrutura ou função renal, persistentes por tempo maior ou igual a 3 meses, com implicações para a saúde, incluindo: TFGe < 60 mL/min/1,73 m² e/ou marcadores de lesão renal, como albuminúria ≥ 30 mg/g, alterações urinárias, alterações estruturais em exames de imagem ou alterações histológicas. Neste caso, o paciente apresenta TFGe = 42 mL/min/1,73 m² (reduzida) e albuminúria = 420 mg/g (marcador inequívoco de lesão renal), com persistência por ≥ 3 meses. Portanto, o diagnóstico de DRC está claramente estabelecido, mesmo na ausência de sintomas. A DRC é frequentemente assintomática em seus estágios iniciais e intermediários, sendo um diagnóstico baseado em critérios laboratoriais e estruturais, não clínicos.\n\nAnálise das alternativas incorretas: alterações estruturais em imagem ou histológicas não são obrigatórias para o diagnóstico. A TFGe reduzida ou a albuminúria persistente isoladamente já estabelecem o diagnóstico. Progressão não é necessária para o diagnóstico. A persistência da lesão renal ou da redução da TFGe por ≥ 3 meses é suficiente."
+    },
+    {
+      "numero": 2,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Paciente do sexo masculino, 53 anos, retorna à UBS para consulta médica duas semanas após o atendimento anterior, em que havia sido constatada pressão arterial de 168/102 mmHg. Trata-se de paciente com diagnóstico prévio de diabetes mellitus, atualmente em uso de metformina e glibenclamida. A PA aferida na consulta de hoje é de 162/96 mmHg. Traz também resultados de exames realizados no intervalo entre as consultas: hemoglobina 13,7 mg/dL (> 12,0), creatinina 1,5 mg/dL (taxa de filtração glomerular estimada em 57 mL/min/1,73 m²), HbA1c 7,6%.",
+      "comando": "Qual é o melhor esquema terapêutico, dentre as opções a seguir, a ser introduzido para o tratamento da hipertensão arterial sistêmica?",
+      "alternativas": {
+        "A": "Enalapril em monoterapia",
+        "B": "Losartana + Carvedilol",
+        "C": "Espironolactona + Valsartana",
+        "D": "Enalapril + Anlodipino"
+      },
+      "gabarito": "D",
+      "justificativa": "O paciente tem hipertensão arterial confirmada (PA ≥ 160/100 mmHg em duas consultas), além de diabetes mellitus e doença renal crônica estágio 3a (TFG estimada em 57 mL/min/1,73 m²). Em pacientes com diabetes e nefropatia, a primeira escolha é um IECA (ex.: enalapril) ou BRA (ex.: losartana), pois oferecem proteção renal e cardiovascular. Como a pressão arterial está persistentemente elevada em níveis de estágio 2, a recomendação é iniciar terapia combinada desde o início, em vez de monoterapia."
+    },
+    {
+      "numero": 3,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": "Questão bônus",
+      "situacao": "Um homem saudável de 48 anos comparece à UBS para realizar o PSA, pois viu, em um anúncio, que deve realizar tal exame para se proteger do câncer de próstata. Ele consultou-se com o médico da família e comunidade e relatou que vinha fazendo o PSA todos os anos, parou na pandemia e, agora, gostaria de fazer novamente.",
+      "comando": "Considerando que o PSA é um exame que apresenta elevado risco ao paciente devido ao seu baixo valor preditivo positivo, em relação ao desejo desse paciente em realizar o PSA, assinale a conduta correta.",
+      "alternativas": {
+        "A": "Devido ao manifesto desejo do paciente, o médico deve solicitar o exame, ainda que discorde da sua necessidade, com o objetivo de preservar a relação médico-paciente.",
+        "B": "O médico deve encaminhar o paciente ao especialista, ao urologista, pois só ele pode determinar a necessidade do exame.",
+        "C": "O médico deve solicitar o exame, mas deve alertar o paciente sobre a alta chance de falso positivo e o risco de uma biópsia ser necessária caso o exame venha positivo.",
+        "D": "O médico deve tomar uma decisão compartilhada, explicando ao paciente sobre os riscos do exame e sua baixa probabilidade de benefício."
+      },
+      "gabarito": "D",
+      "justificativa": "A alternativa D é a correta, pois a solicitação do PSA no rastreamento do câncer de próstata envolve potenciais benefícios e riscos, como resultados falso-positivos, sobrediagnóstico e procedimentos invasivos desnecessários. Dessa forma, recomenda-se que a decisão seja tomada por meio de decisão compartilhada, na qual o médico apresenta de forma clara e equilibrada as evidências, riscos e benefícios do exame, permitindo que o paciente participe ativamente da escolha. A alternativa A está incorreta porque atender automaticamente ao desejo do paciente sem discussão adequada não respeita o princípio da prática baseada em evidências. A alternativa C é inadequada porque negar a solicitação de forma unilateral desconsidera a autonomia do paciente. A alternativa B é incorreta, pois a avaliação inicial e a discussão sobre rastreamento podem e devem ocorrer na atenção primária, não sendo necessário encaminhamento ao especialista para essa decisão."
+    },
+    {
+      "numero": 4,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 45 anos procura atendimento para avaliação de risco cardiovascular. Nega sintomas de hiperglicemia.\n\nApresenta os seguintes dados clínicos e laboratoriais: IMC: 31 kg/m², circunferência abdominal: 106 cm, pressão arterial: 138/86 mmHg, triglicerídeos: 210 mg/dL, HDL: 36 mg/dL, glicemia de jejum (1ª coleta): 128 mg/dL, HbA1c: 6,4%. Uma segunda glicemia de jejum, realizada 10 dias depois, foi de 130 mg/dL.",
+      "comando": "Com base nos critérios diagnósticos atuais, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O paciente apresenta apenas síndrome metabólica, pois a HbA1c é inferior a 6,5%, não preenchendo critérios para diabetes mellitus.",
+        "B": "O paciente apresenta diabetes mellitus e síndrome metabólica.",
+        "C": "O paciente apresenta diabetes mellitus, mas não preenche critérios para síndrome metabólica, pois a pressão arterial é inferior a 140/90 mmHg.",
+        "D": "O paciente apresenta síndrome metabólica, mas o diagnóstico de diabetes mellitus não pode ser confirmado na ausência de sintomas clássicos."
+      },
+      "gabarito": "B",
+      "justificativa": "O diagnóstico de diabetes mellitus, segundo Medicina Interna de Harrison, pode ser estabelecido por: glicemia de jejum ≥ 126 mg/dL (confirmada em segunda amostra), ou HbA1c ≥ 6,5%, ou TOTG 2h ≥ 200 mg/dL, ou TOTG 1h ≥ 209 mg/dL, ou glicemia casual ≥ 200 mg/dL com sintomas. Neste caso, primeira glicemia: 128 mg/dL; segunda glicemia: 130 mg/dL. Há duas glicemias de jejum ≥ 126 mg/dL em dias diferentes, confirmando o diagnóstico, mesmo com HbA1c < 6,5% e ausência de sintomas.\n\nOs critérios clássicos para diagnóstico de síndrome metabólica incluem pelo menos 3 dos seguintes: circunferência abdominal aumentada (acima de 102 cm para homens e 88 cm para mulheres), triglicerídeos ≥ 150 mg/dL, HDL baixo (inferior a 40 mg/dL em homens ou inferior a 50 mg/dL em mulheres), PA ≥ 130/85 mmHg ou uso de anti-hipertensivo, glicemia de jejum ≥ 100 mg/dL (pré-diabetes) ou diagnóstico de diabetes. O paciente apresenta: obesidade abdominal (CC de 106 cm), triglicerídeos 210 mg/dL, HDL 36 mg/dL, PA 138/86 mmHg e glicemia alterada. Ele preenche mais de três critérios, caracterizando síndrome metabólica.\n\nAnálise das alternativas: A) Incorreta. HbA1c < 6,5% não exclui diabetes quando há glicemia de jejum confirmadamente elevada. B) Correta. Há critérios para diabetes e múltiplos critérios para síndrome metabólica. C) Incorreta. Para síndrome metabólica, o ponto de corte da PA é ≥ 130/85 mmHg, não 140/90 mmHg. D) Incorreta. Sintomas não são obrigatórios quando há confirmação laboratorial em paciente assintomático."
+    },
+    {
+      "numero": 5,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 58 anos, com diagnóstico de diabetes mellitus tipo 2 há 6 anos, comparece para consulta de seguimento. Faz uso regular de metformina 2.000 mg/dia. Apresenta boa adesão ao tratamento e às medidas de estilo de vida. Histórico de infarto agudo do miocárdio há 2 anos. Não apresenta sintomas de hiperglicemia.\n\nSeus exames recentes mostram: HbA1c: 8,4%, TFG (taxa de filtração glomerular): 68 mL/min/1,73 m², IMC: 33 kg/m², pressão arterial: 132/82 mmHg.\n\nO objetivo terapêutico é otimizar o controle glicêmico e reduzir o risco cardiovascular.",
+      "comando": "Com base nos princípios atuais de tratamento do diabetes mellitus tipo 2, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Deve-se adicionar uma sulfonilureia, pois é a classe preferida após falha da metformina, independentemente das comorbidades.",
+        "B": "Deve-se iniciar insulinoterapia basal, pois a HbA1c é superior a 7%, independentemente de outros fatores clínicos.",
+        "C": "Deve-se adicionar um inibidor de SGLT2 ou um agonista do receptor de GLP-1 com benefício cardiovascular comprovado.",
+        "D": "Deve-se substituir a metformina por insulina, pois a metformina é contraindicada em pacientes com doença cardiovascular estabelecida."
+      },
+      "gabarito": "C",
+      "justificativa": "O tratamento do diabetes mellitus tipo 2 deve ser individualizado com base em: controle glicêmico, presença de doença cardiovascular aterosclerótica (DCVA), doença renal crônica, insuficiência cardíaca, peso corporal e risco de hipoglicemia. Em pacientes com diabetes tipo 2 e doença cardiovascular aterosclerótica estabelecida, como neste caso (história de infarto do miocárdio), recomenda-se a adição de inibidor de SGLT2 (ex.: empagliflozina, dapagliflozina) ou agonista do receptor de GLP-1 (ex.: liraglutida, semaglutida). Essas classes demonstraram: redução de mortalidade cardiovascular, redução de eventos cardiovasculares maiores, benefício adicional no controle glicêmico e benefício metabólico (especialmente perda de peso com GLP-1). Essa recomendação é independente da HbA1c atual ou do uso prévio de metformina, desde que não haja contraindicações.\n\nAnálise das alternativas: A) Incorreta. Sulfonilureias não são preferidas em pacientes com doença cardiovascular estabelecida e não reduzem eventos cardiovasculares. B) Incorreta. Insulina não é obrigatória neste contexto. É reservada para casos específicos, como hiperglicemia grave ou falha de múltiplas terapias. D) Incorreta. A metformina não é contraindicada na doença cardiovascular e permanece como terapia de base."
+    },
+    {
+      "numero": 6,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 56 anos procura atendimento com queixa de fadiga progressiva há 6 meses, associada a parestesias em membros inferiores e dificuldade para caminhar. Ao exame físico, apresenta palidez cutaneomucosa, glossite atrófica e redução da sensibilidade vibratória em membros inferiores.\n\nExames laboratoriais mostram: hemoglobina: 8,4 g/dL, VCM: 112 fL, RDW: aumentado, reticulócitos: 0,5%, leucócitos: 3.200/mm³, plaquetas: 110.000/mm³, DHL: elevada, bilirrubina indireta: discretamente elevada, vitamina B12 sérica: limítrofe inferior, ácido metilmalônico: elevado, homocisteína: elevada.",
+      "comando": "Com base nos achados clínicos e laboratoriais e nos princípios da propedêutica das anemias, assinale a alternativa CORRETA.",
+      "alternativas": {
+        "A": "O aumento do ácido metilmalônico indica deficiência de ácido fólico como causa da anemia megaloblástica.",
+        "B": "O aumento do ácido metilmalônico confirma deficiência de vitamina B12 como causa da anemia megaloblástica, mesmo com níveis séricos limítrofes.",
+        "C": "A elevação da DHL e da bilirrubina indireta indica anemia hemolítica autoimune, sendo indicado teste de Coombs direto.",
+        "D": "A contagem reduzida de reticulócitos indica anemia hiperproliferativa secundária à deficiência de vitamina B12."
+      },
+      "gabarito": "B",
+      "justificativa": "O ácido metilmalônico elevado é um marcador altamente específico de deficiência de vitamina B12, sendo fundamental na confirmação diagnóstica, especialmente quando os níveis séricos de B12 são limítrofes ou inconclusivos. A vitamina B12 é cofator essencial na conversão do ácido metilmalônico em succinil-CoA. Na sua deficiência, ocorre acúmulo de ácido metilmalônico, tornando sua dosagem um marcador sensível e específico. Segundo o Medicina Interna de Harrison, a elevação do ácido metilmalônico ocorre exclusivamente na deficiência de vitamina B12, não sendo observada na deficiência de ácido fólico, sendo útil para o diagnóstico diferencial entre essas duas causas de anemia megaloblástica. De acordo com o Semiologia Médica: as bases do diagnóstico clínico, a anemia megaloblástica caracteriza-se por anemia macrocítica, reticulocitopenia e sinais de eritropoiese ineficaz, podendo associar-se a leucopenia e trombocitopenia (pancitopenia).\n\nJustificativa das alternativas incorretas: A) Incorreta. O ácido metilmalônico é normal na deficiência de ácido fólico. Apenas a homocisteína se eleva em ambas as deficiências. C) Incorreta. A elevação da DHL e da bilirrubina indireta, neste contexto, resulta da eritropoiese ineficaz (hemólise intramedular), não de hemólise autoimune. D) Incorreta. Reticulócitos reduzidos indicam anemia hipoproliferativa, devido à deficiência de síntese de DNA, característica da anemia megaloblástica."
+    },
+    {
+      "numero": 7,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Uma mulher de 52 anos é avaliada por fadiga progressiva, intolerância ao frio, constipação e diminuição da libido há vários meses. Refere amenorreia há 2 anos. Ao exame físico, apresenta frequência cardíaca de 52 bpm, pele seca e fácies discretamente mixedematosa.\n\nOs exames laboratoriais mostram: TSH: 0,2 mUI/L (valor de referência: 0,4–4,0 mUI/L), T4 livre: 0,4 ng/dL (valor de referência: 0,8–1,8 ng/dL), sódio sérico: 129 mEq/L (valor de referência: 135–145 mEq/L).",
+      "comando": "Marque a alternativa que corresponde ao diagnóstico da paciente em questão.",
+      "alternativas": {
+        "A": "Hipotireoidismo primário por tireoidite autoimune.",
+        "B": "Hipotireoidismo subclínico.",
+        "C": "Hipotireoidismo central por disfunção hipotálamo-hipofisária.",
+        "D": "Síndrome do eutireoidiano doente."
+      },
+      "gabarito": "C",
+      "justificativa": "O diagnóstico de hipotireoidismo baseia-se na interpretação conjunta do TSH e do T4 livre. Nesta paciente, observa-se: T4 livre reduzido → confirma hipotireoidismo + TSH reduzido → resposta inapropriada da hipófise. No hipotireoidismo primário, a hipófise responde adequadamente ao T4 baixo com aumento do TSH. Portanto, o TSH deveria estar elevado. Quando o TSH está reduzido ou inapropriadamente normal na presença de T4 livre baixo, isso indica falha na hipófise ou no hipotálamo, caracterizando hipotireoidismo central (secundário ou terciário). A presença de amenorreia e hiponatremia reforça a suspeita de disfunção hipotálamo-hipofisária mais ampla (hipopituitarismo).\n\nAnálise das alternativas incorretas: A) Incorreta. No hipotireoidismo primário, o TSH estaria elevado, não reduzido. B) Incorreta. No hipotireoidismo subclínico, o T4 livre é normal, não reduzido. D) Incorreta. A síndrome do eutireoidiano doente ocorre em pacientes gravemente enfermos e tipicamente apresenta redução predominante de T3, com T4 frequentemente normal ou discretamente reduzido."
+    },
+    {
+      "numero": 8,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 19 anos procura o pronto atendimento com história de poliúria, polidipsia, perda ponderal de 6 kg nas últimas 4 semanas e fadiga progressiva. Ao exame físico, encontra-se desidratado, com frequência cardíaca de 108 bpm e pressão arterial de 100/60 mmHg.\n\nExames laboratoriais mostram: glicemia plasmática casual: 298 mg/dL, hemoglobina glicada (HbA1c): 10,2%, peptídeo C: reduzido, anticorpos anti-GAD: positivos.",
+      "comando": "Com base nos critérios diagnósticos e na classificação do diabetes mellitus, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O diagnóstico de diabetes mellitus requer confirmação com nova glicemia em outro dia, pois a HbA1c isoladamente não confirma o diagnóstico.",
+        "B": "O diagnóstico de diabetes mellitus está estabelecido pela glicemia casual ≥ 200 mg/dL associada a sintomas clássicos de hiperglicemia.",
+        "C": "A presença de anticorpos anti-GAD é obrigatória para o diagnóstico de diabetes mellitus tipo 1.",
+        "D": "Valor reduzido de peptídeo C confirma o diagnóstico de diabetes mellitus, independentemente dos níveis de glicemia."
+      },
+      "gabarito": "B",
+      "justificativa": "Segundo o Medicina Interna de Harrison, o diagnóstico de diabetes mellitus pode ser estabelecido imediatamente quando há glicemia plasmática casual ≥ 200 mg/dL associada a sintomas clássicos de hiperglicemia, como poliúria, polidipsia e perda de peso inexplicada. Neste caso, o paciente apresenta sintomas clássicos + glicemia casual de 298 mg/dL. Isso é suficiente para confirmar o diagnóstico, sem necessidade de confirmação adicional. A classificação como diabetes mellitus tipo 1 é apoiada por: idade jovem + início agudo + perda ponderal + peptídeo C reduzido (baixa produção de insulina) + anticorpos anti-GAD positivos (autoimunidade).\n\nAnálise das alternativas: A) Incorreta. Quando há sintomas clássicos e glicemia casual ≥ 200 mg/dL, não é necessária confirmação adicional. B) Correta. Este é um dos critérios diagnósticos formais e definitivos. C) Incorreta. Anticorpos não são obrigatórios para o diagnóstico; são úteis para classificação etiológica. D) Incorreta. Peptídeo C reduzido não define diabetes sem hiperglicemia."
+    },
+    {
+      "numero": 9,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Paciente do sexo masculino, 57 anos, morador de área rural do estado de Minas Gerais, procura atendimento médico de urgência devido a dispneia aos esforços. O sintoma teve início há cerca de quatro meses, progredindo em intensidade desde então. Hoje, informa dispneia ao realizar pequenos esforços, como deambular entre os cômodos de sua casa e tomar banho. Queixa-se também de fadiga, ortopneia, edema de membros inferiores e oligúria. Não frequenta serviços de saúde, não tendo quaisquer diagnósticos prévios conhecidos. Tem passado de tabagismo durante a juventude, tendo interrompido o hábito há quase 30 anos, com carga tabágica imprecisa. Refere etilismo aos finais de semana, com duas doses de aguardente aos sábados e aos domingos.\n\nAo exame físico, verificam-se PA 88/70 mmHg, frequência cardíaca 92 bpm, frequência respiratória 28 irpm, saturação periférica de O₂ 92%, sudorese, pulsos periféricos finos, extremidades frias, turgência de veia jugular externa, refluxo hepatojugular positivo, presença de B3 e edema de MMII simétrico, 2+/4+. Exames laboratoriais iniciais revelam hemoglobina 12,1 mg/dL (> 12,5), creatinina 1,6 mg/dL (< 1,1), ureia 52 mg/dL (< 33), sódio 130 mEq/L (135–145 mEq/L) e potássio 4,8 mEq/L (3,5–5,0 mEq/L).",
+      "comando": "Sobre o caso clínico descrito, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "Quanto ao modelo clínico hemodinâmico, o paciente classifica-se no perfil B, quente e úmido, sendo esse o perfil mais comum de apresentação.",
+        "B": "Caso seja realizada dosagem do BNP, o valor desse marcador poderá estar falsamente reduzido, devido à insuficiência renal concomitante.",
+        "C": "Enquanto dispneia, ortopneia e fadiga são sintomas típicos de insuficiência cardíaca, turgência de jugular, refluxo hepatojugular e B3 são achados mais específicos dessa condição.",
+        "D": "A presença de manifestações de baixo débito cardíaco é definidora de ICFEr, uma vez que tais achados não estão presentes na ICFEp."
+      },
+      "gabarito": "C",
+      "justificativa": "O paciente descrito apresenta quadro típico de insuficiência cardíaca descompensada, com sintomas clássicos (dispneia progressiva, ortopneia, fadiga, edema de membros inferiores, oligúria) e sinais objetivos de congestão e baixo débito (hipotensão, extremidades frias, pulsos periféricos finos, turgência jugular, refluxo hepatojugular positivo, presença de B3). Nesse contexto, é importante diferenciar sintomas inespecíficos de achados mais específicos da síndrome. Dispneia, ortopneia e fadiga são sintomas comuns, mas podem estar presentes em diversas condições clínicas. Já a turgência da veia jugular, o refluxo hepatojugular e a presença de B3 são achados mais característicos e específicos da insuficiência cardíaca, reforçando o diagnóstico."
+    },
+    {
+      "numero": 10,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 68 anos apresenta histórico de infarto agudo do miocárdio há 3 anos, diabetes mellitus tipo 2 e doença renal crônica estágio 3 (TFGe: 48 mL/min/1,73 m²). Encontra-se em uso regular de rosuvastatina e ezetimiba em doses otimizadas, com boa adesão e tolerância.\n\nExames laboratoriais recentes mostram: LDL-colesterol: 82 mg/dL, HDL-colesterol: 38 mg/dL, triglicerídeos: 156 mg/dL, colesterol total: 162 mg/dL.",
+      "comando": "Considerando as recomendações atuais para prevenção secundária da doença cardiovascular aterosclerótica, marque a alternativa que corresponde à conduta indicada para o paciente em questão.",
+      "alternativas": {
+        "A": "Manter o tratamento atual, pois o paciente já está em uso de terapia hipolipemiante máxima recomendada.",
+        "B": "Substituir a rosuvastatina por um fibrato, pois este é mais eficaz na redução adicional do risco cardiovascular residual.",
+        "C": "Associar um inibidor de PCSK9, pois o LDL-colesterol permanece acima da meta recomendada apesar do uso de estatina e ezetimiba.",
+        "D": "Suspender a ezetimiba, pois sua associação com estatina não reduz eventos cardiovasculares adicionais."
+      },
+      "gabarito": "C",
+      "justificativa": "Este paciente apresenta muito alto risco cardiovascular, caracterizado por doença cardiovascular aterosclerótica estabelecida (infarto prévio) + diabetes mellitus + doença renal crônica. Segundo o Medicina Interna de Harrison, o manejo terapêutico deve seguir uma abordagem escalonada: Passo 1: estatina de alta intensidade (ex.: rosuvastatina 20–40 mg ou atorvastatina 40–80 mg); Passo 2: se LDL ≥ 70 mg/dL → adicionar ezetimiba; Passo 3: se LDL ≥ 70 mg/dL apesar de estatina máxima + ezetimiba → adicionar inibidor de PCSK9. Este paciente apresenta LDL de 82 mg/dL mesmo com estatina de alta intensidade + ezetimiba. Portanto, há indicação de associação de um inibidor de PCSK9 (ex.: evolocumabe ou alirocumabe). Esses fármacos reduzem o LDL em aproximadamente 50–60% adicionais e demonstraram redução significativa de eventos cardiovasculares, sendo possível atingir o alvo recomendado de LDL < 40 mg/dL."
+    },
+    {
+      "numero": 11,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Ainda que a grande maioria dos casos de hipertensão arterial sistêmica seja primária, é imprescindível que o médico esteja atento a achados clínicos e/ou laboratoriais que possam suscitar a suspeita de uma condição subjacente, e potencialmente reversível, para o aumento da pressão arterial.",
+      "comando": "Sobre as causas de hipertensão secundária, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "Declínio acentuado da taxa de filtração glomerular após introdução de IECA ou BRA e presença de sopro abdominal são indícios de possível estenose das artérias renais.",
+        "B": "Na presença de feocromocitoma, a produção excessiva de catecolaminas induz ganho ponderal, hipotermia, sudorese e cefaleia.",
+        "C": "Deve-se suspeitar de hiperaldosteronismo primário na vigência de hipertensão resistente associada a acidose metabólica, hipercalemia e hipomagnesemia.",
+        "D": "Na síndrome de Cushing, observam-se redistribuição da gordura corporal, com obesidade centrípeta, hiperpigmentação cutânea, hipoglicemia, hiponatremia, hipersonia e tendência à osteoporose."
+      },
+      "gabarito": "A",
+      "justificativa": "Suspeita-se de estenose de artérias renais quando há queda abrupta da função renal após início de IECA ou BRA, pois esses fármacos reduzem a pressão de filtração glomerular em rins dependentes da vasoconstrição da arteríola eferente. A presença de sopro abdominal é outro achado sugestivo."
+    },
+    {
+      "numero": 12,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "As múltiplas classes farmacológicas empregadas no tratamento da hipertensão arterial sistêmica apresentam propriedades específicas, que determinam o uso de cada medicamento em diferentes cenários.",
+      "comando": "Acerca do tema, assinale a alternativa que contém apenas conceitos verdadeiros:",
+      "alternativas": {
+        "A": "Em pacientes com gota, os diuréticos tiazídicos constituem opção de primeira escolha, tendo em vista o seu efeito uricosúrico.",
+        "B": "Devido ao seu potencial de induzir vasoconstrição periférica, por meio do bloqueio dos receptores beta-2, os betabloqueadores são contraindicados em pacientes com doença arterial periférica grave.",
+        "C": "A ocorrência de angioedema atribuída ao uso dos IECA é decorrente de um efeito depletor de bradicinina no organismo, resultando em vasoconstrição generalizada.",
+        "D": "A adição de espironolactona ao esquema terapêutico é útil para reduzir o risco de hiperpotassemia em pacientes já em uso de IECA ou BRA."
+      },
+      "gabarito": "B",
+      "justificativa": "Os betabloqueadores atuam bloqueando receptores β-adrenérgicos. Quando bloqueiam receptores β2, presentes na musculatura lisa vascular periférica, eles impedem a vasodilatação mediada por catecolaminas, favorecendo vasoconstrição. Em indivíduos sem doença arterial periférica significativa, esse efeito costuma ser pouco relevante. No entanto, em pacientes com doença arterial periférica grave, essa vasoconstrição adicional pode agravar a isquemia dos membros, piorando sintomas como claudicação intermitente e aumentando o risco de complicações. Por isso, os betabloqueadores são considerados contraindicados ou devem ser usados com extrema cautela nesses casos."
+    },
+    {
+      "numero": 13,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Uma mulher de 68 anos, com diagnóstico de fibrilação atrial e hipertensão arterial sistêmica, inicia tratamento com warfarina para prevenção de eventos tromboembólicos. O médico lhe explica que a warfarina reduz a formação de coágulos ao interferir na síntese hepática de fatores de coagulação dependentes da vitamina K, sendo importante para evitar complicações relacionadas à arritmia que ela apresenta.\n\nDurante o acompanhamento ambulatorial, é solicitado um exame laboratorial específico para monitorar o efeito anticoagulante do medicamento prescrito e para orientar possível ajuste da dose, reduzindo o risco de trombose e sangramento.",
+      "comando": "Marque a alternativa que corresponde ao exame indicado para monitorar o efeito anticoagulante da warfarina na paciente em questão.",
+      "alternativas": {
+        "A": "Tempo de tromboplastina parcial ativada (PTTa), que avalia a via intrínseca da coagulação.",
+        "B": "Razão normalizada internacional (RNI), que padroniza o tempo de protrombina.",
+        "C": "Dosagem de fibrinogênio plasmático, que avalia o substrato da formação do coágulo.",
+        "D": "Contagem de plaquetas, que avalia o componente celular da coagulação."
+      },
+      "gabarito": "B",
+      "justificativa": "A warfarina é um anticoagulante oral que atua como antagonista da vitamina K, inibindo a síntese hepática dos fatores de coagulação II, VII, IX e X e das proteínas C e S. Esses fatores participam principalmente da via extrínseca e da via comum da coagulação. O principal exame utilizado para monitorar o efeito da warfarina é o tempo de protrombina (TP), expresso de forma padronizada como razão normalizada internacional (RNI). O RNI permite avaliar a intensidade da anticoagulação, ajustar a dose da warfarina e reduzir o risco de complicações hemorrágicas ou trombóticas. Na maioria das indicações clínicas, como fibrilação atrial, o alvo terapêutico é um RNI entre 2,0 e 3,0. Esse monitoramento é necessário porque a warfarina apresenta grande variabilidade interindividual, além de interações com medicamentos, alimentos e condições clínicas.\n\nAnálise das alternativas incorretas: A) Incorreta. O PTTa é utilizado principalmente para monitorar a heparina não fracionada, pois avalia a via intrínseca da coagulação. C) Incorreta. A dosagem de fibrinogênio não reflete o efeito da warfarina, pois esse anticoagulante não atua diretamente sobre a concentração de fibrinogênio. D) Incorreta. A contagem de plaquetas avalia o número de plaquetas, não sendo útil para monitorar o efeito anticoagulante da warfarina."
+    },
+    {
+      "numero": 14,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 64 anos procura atendimento ambulatorial com queixa de fadiga progressiva, intolerância aos esforços e redução da capacidade funcional há cerca de 7 meses. Refere também desejo frequente de mastigar gelo. Ao exame físico, observam-se palidez cutaneomucosa, coiloníquia e queilite angular.\n\nOs exames laboratoriais mostram: hemoglobina: 9,9 g/dL, VCM: 71 fL, RDW: aumentado, reticulócitos: 0,7%, ferro sérico: normal, ferritina: reduzida, capacidade total de ligação do ferro: elevada.",
+      "comando": "Considerando o diagnóstico provável e os princípios da propedêutica clínica, assinale a alternativa que representa a conduta propedêutica adequada para investigação da etiologia da anemia neste paciente.",
+      "alternativas": {
+        "A": "Iniciar reposição de ferro e reavaliar em 12 meses, sem necessidade de investigação etiológica, pois a anemia ferropriva é comum em idosos.",
+        "B": "Solicitar mielograma como primeiro exame, pois é o método padrão-ouro para confirmação da anemia ferropriva em adultos.",
+        "C": "Investigar perda crônica de sangue, especialmente do trato gastrointestinal, por meio de endoscopia digestiva alta e colonoscopia.",
+        "D": "Solicitar dosagem de vitamina B12 e ácido fólico como principal hipótese diagnóstica, devido à presença de anemia microcítica."
+      },
+      "gabarito": "C",
+      "justificativa": null
+    },
+    {
+      "numero": 15,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Dispõe-se, atualmente, de um amplo arsenal de métodos diagnósticos para a avaliação de pacientes sob suspeita de doença arterial coronariana.",
+      "comando": "Acerca das propriedades de tais exames complementares, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "A impossibilidade de detecção de diagnósticos diferenciais, como dissecção aguda de aorta e tromboembolismo pulmonar, por meio do ecocardiograma torna tal exame pouco útil na avaliação de pacientes com dor torácica aguda.",
+        "B": "A inversão da onda T é um distúrbio da despolarização ventricular, e constitui forte indício de isquemia subendocárdica.",
+        "C": "O teste ergométrico é o método diagnóstico de escolha para a avaliação de pacientes com alta probabilidade pré-teste para doença arterial coronariana.",
+        "D": "A angiotomografia de coronárias apresenta elevado valor preditivo negativo para doença arterial coronariana, em pacientes jovens com baixa a moderada probabilidade pré-teste para a doença."
+      },
+      "gabarito": "D",
+      "justificativa": "A angiotomografia coronariana (CCTA) é um exame anatômico não invasivo que visualiza diretamente a luz coronariana e as placas ateroscleróticas. Em pacientes jovens com baixa a moderada probabilidade pré-teste de doença arterial coronariana, a prevalência de obstrução coronariana significativa é baixa e a qualidade das imagens tende a ser melhor (menos calcificação coronariana e menos artefatos), o que aumenta a sensibilidade do exame. Por consequência, um resultado negativo na CCTA tem alto valor preditivo negativo, permitindo excluir com segurança doença coronariana obstrutiva significativa nesses pacientes e evitando procedimentos invasivos desnecessários."
+    },
+    {
+      "numero": 16,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Trata-se de paciente do sexo masculino, 62 anos, com indicação de abordagem cirúrgica de aneurisma de aorta abdominal. Tem como comorbidades sobrepeso, hipertensão arterial sistêmica, diabetes mellitus tipo 2 e hipercolesterolemia, fazendo uso regular de enalapril, hidroclorotiazida, metformina e rosuvastatina. Tem passado de tabagismo, com carga tabágica estimada em 14 anos-maço, estando abstêmio há 20 anos. Os exames laboratoriais realizados no último mês trazem os seguintes resultados: hemoglobina 14,2 mg/dL (> 13 mg/dL), creatinina 2,2 mg/dL (< 1,1 mg/dL), ureia 53 mg/dL (< 32 mg/dL), HbA1c 6,8%, potássio 4,5 mEq/L (3,5–5,0 mEq/L), sódio 137 (135–145 mEq/L).",
+      "comando": "Qual é a conduta correta em relação ao manejo perioperatório deste paciente?",
+      "alternativas": {
+        "A": "No Índice de Risco Cardíaco Revisado (Índice de Lee), o paciente pontua 2. Caso sua capacidade funcional seja estimada em menos de 4 METs, deverá ser submetido a testes cardíacos adicionais previamente à liberação para a cirurgia.",
+        "B": "Uma vez que o paciente é portador de diabetes mellitus não insulino-requerente, e apresenta HbA1c dentro do alvo terapêutico, não será necessário estimar a capacidade funcional para este paciente.",
+        "C": "Enquanto o enalapril deverá ser suspenso na manhã da cirurgia, não será necessário suspender a metformina, tendo em vista o baixo risco de evolução com hipoglicemia.",
+        "D": "Somente será possível prosseguir com a realização da cirurgia se a pressão arterial do paciente estiver bem controlada, persistentemente abaixo de 120/70 mmHg."
+      },
+      "gabarito": "A",
+      "justificativa": "O paciente em questão apresenta indicação de cirurgia de alto risco (aneurisma de aorta abdominal) e possui insuficiência renal crônica, evidenciada pela creatinina de 2,2 mg/dL. Esses dois fatores conferem 2 pontos no Índice de Risco Cardíaco Revisado (Lee), o que já caracteriza risco cardiovascular aumentado. Nessa situação, a avaliação da capacidade funcional torna-se fundamental para o manejo perioperatório. Caso seja estimada em menos de 4 METs, há recomendação de realização de exames cardíacos adicionais antes da liberação para o procedimento cirúrgico, com o objetivo de reduzir o risco de complicações cardiovasculares."
+    },
+    {
+      "numero": 17,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Mulher de 33 anos comparece a consulta de clínica médica para avaliação periódica. Não apresenta nenhuma queixa objetiva. É sedentária e tabagista ativa, com carga tabágica estimada em 8 anos-maço, e exibe sobrepeso (IMC 28). Tem história familiar de câncer colorretal, em tia materna. É casada e tem uma filha (G2P1A1). A última citologia do colo uterino, com resultado normal, foi realizada há quatro anos.",
+      "comando": "Assinale a alternativa que contém apenas procedimentos indicados como parte do exame periódico de saúde dessa paciente:",
+      "alternativas": {
+        "A": "Aferição de pressão arterial, rastreio de diabetes mellitus, TC de tórax de baixa dose.",
+        "B": "Avaliação do perfil lipídico, citologia do colo uterino, mamografia.",
+        "C": "Colonoscopia, aferição da pressão arterial, rastreio de diabetes mellitus.",
+        "D": "Rastreio de diabetes mellitus, avaliação do perfil lipídico, citologia do colo uterino."
+      },
+      "gabarito": "D",
+      "justificativa": "A alternativa correta é a D, pois reúne apenas procedimentos efetivamente indicados para o exame periódico de saúde de uma mulher de 33 anos com os fatores de risco descritos. Essa paciente apresenta sobrepeso, é sedentária e tabagista, o que justifica a realização do rastreamento de diabetes mellitus, já que a recomendação é investigar a doença em adultos com excesso de peso associado a fatores de risco adicionais. A avaliação do perfil lipídico também está indicada, uma vez que o rastreamento de dislipidemia deve ser feito em adultos jovens que apresentem fatores de risco cardiovascular, como tabagismo e sobrepeso. Além disso, a citologia do colo uterino deve ser repetida, pois o exame é recomendado para mulheres entre 25 e 64 anos, com intervalo de três anos após dois exames anuais normais consecutivos, e a paciente realizou sua última coleta há quatro anos, estando fora do prazo adequado."
+    },
+    {
+      "numero": 18,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Uma mulher de 32 anos apresenta palpitações, perda de peso, ansiedade e intolerância ao calor há 3 meses. Ao exame físico, observa-se taquicardia e aumento difuso da tireoide, indolor. Os exames laboratoriais mostram: TSH: < 0,01 mUI/L (valor de referência: 0,4–4,0 mUI/L) e T4 livre: elevado. Foi realizada cintilografia da tireoide com radioiodo, que evidenciou captação difusamente aumentada em toda a glândula tireoide.",
+      "comando": "Com base nesses achados clínicos, laboratoriais e cintilográficos, marque a alternativa que corresponde ao diagnóstico da paciente em questão.",
+      "alternativas": {
+        "A": "Tireoidite subaguda.",
+        "B": "Doença de Graves.",
+        "C": "Adenoma tóxico.",
+        "D": "Doença de Plummer."
+      },
+      "gabarito": "B",
+      "justificativa": "A paciente apresenta quadro clínico e laboratorial compatível com hipertireoidismo primário: TSH suprimido, T4 livre elevado e sintomas típicos de tireotoxicose. O achado decisivo é o resultado da cintilografia tireoidiana, que mostra captação difusamente aumentada. Esse padrão é característico da doença de Graves, a causa mais comum de hipertireoidismo. Na doença de Graves, autoanticorpos estimuladores do receptor de TSH (TRAb) promovem estimulação difusa da tireoide, aumento da síntese hormonal e aumento difuso da captação de iodo radioativo.\n\nAnálise das alternativas incorretas: A) Tireoidite subaguda: incorreta. Na tireoidite, há liberação de hormônio pré-formado, sem aumento da síntese. A cintilografia mostra captação reduzida, não aumentada. C e D) Adenoma tóxico (bócio uninodular tóxico) e doença de Plummer (bócio multinodular tóxico): incorretas. Nestas condições, a cintilografia mostra captação aumentada e localizada, pela presença de um ou mais \"nódulos quentes\" (hipercaptantes), que concentram intensamente o radiofármaco (iodo ou tecnécio), enquanto o restante da glândula tireoide apresenta baixa ou nenhuma captação (tecido suprimido pelo TSH baixo)."
+    },
+    {
+      "numero": 19,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 58 anos, com histórico de obesidade e imobilização recente após cirurgia ortopédica, procura atendimento com dor e edema em panturrilha esquerda há 3 dias. O ultrassom Doppler confirma trombose venosa profunda proximal.\n\nO tratamento é iniciado com heparina não fracionada intravenosa, seguida da introdução de warfarina por via oral no segundo dia de internação.\n\nNo terceiro dia de tratamento, o paciente apresenta RNI de 2,4 e ausência de novos eventos trombóticos. Um estudante de medicina questiona ao preceptor por que a heparina não pode ser suspensa imediatamente, uma vez que o INR já se encontra na faixa terapêutica (entre 2,0 e 3,0).",
+      "comando": "Considerando os fundamentos fisiológicos e farmacológicos da anticoagulação, marque a alternativa que apresenta a explicação para a necessidade de manter a heparina concomitantemente à warfarina no início do tratamento (por um mínimo de 5 dias).",
+      "alternativas": {
+        "A": "A warfarina apresenta início de ação lento porque depende da depuração dos fatores de coagulação já sintetizados. A rápida redução dos níveis da proteína C pode gerar um estado transitório de hipercoagulabilidade.",
+        "B": "A heparina deve ser mantida porque a warfarina não exerce efeito sobre a via extrínseca da coagulação durante os primeiros dias de tratamento.",
+        "C": "A warfarina demora a atingir níveis plasmáticos estáveis devido à sua baixa biodisponibilidade oral.",
+        "D": "A necessidade de sobreposição de heparina ocorre porque a warfarina, inicialmente, aumenta a atividade dos fatores de coagulação dependentes da vitamina K antes de inibi-los progressivamente."
+      },
+      "gabarito": "A",
+      "justificativa": "A warfarina atua como antagonista da vitamina K, inibindo a enzima vitamina K epóxido redutase no fígado, o que reduz a síntese dos fatores de coagulação dependentes de vitamina K: fatores II (protrombina), VII, IX, X e as proteínas C e S. A redução das proteínas C e S ocorre cerca de 8 horas após o início da medicação oral, enquanto fatores pró-coagulantes, especialmente a protrombina (fator II), permanecem ativos por mais tempo (até 72 h). Isso gera um desequilíbrio temporário entre fatores pró-coagulantes e anticoagulantes naturais, resultando em um estado transitório de hipercoagulabilidade, com risco de progressão da trombose. Portanto, é fundamental manter anticoagulação com heparina por pelo menos 5 dias e até que o RNI esteja terapêutico por pelo menos 24 horas, garantindo anticoagulação efetiva enquanto os fatores pró-coagulantes ainda estão presentes.\n\nAnálise das alternativas incorretas: B) Incorreta. A warfarina atua tanto na via extrínseca (fator VII) quanto na via comum (fatores II e X). O atraso do efeito está relacionado à meia-vida dos fatores, não à ausência de ação em determinada via. C) Incorreta. A warfarina tem alta biodisponibilidade oral (> 90%). O atraso no efeito anticoagulante não se deve à absorção, mas à meia-vida dos fatores de coagulação. D) Incorreta. A warfarina não aumenta a atividade dos fatores de coagulação em nenhum momento. Seu mecanismo de ação consiste exclusivamente na inibição da vitamina K epóxido redutase, impedindo a carboxilação gama dos fatores II, VII, IX, X e das proteínas C e S, o que leva à produção de fatores biologicamente inativos."
+    },
+    {
+      "numero": 20,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "Um homem de 62 anos é diagnosticado com diabetes mellitus tipo 2 após exames de rotina. Encontra-se assintomático. Seus exames laboratoriais mostram: HbA1c: 8,1%, creatinina: 1,9 mg/dL, taxa de filtração glomerular estimada (TFGe): 38 mL/min/1,73 m².\n\nNega uso prévio de medicamentos antidiabéticos.\n\nO médico orienta mudanças no estilo de vida e considera iniciar tratamento farmacológico.",
+      "comando": "De acordo com as recomendações atuais, marque a alternativa que corresponde à conduta farmacológica inicial apropriada para o paciente em questão.",
+      "alternativas": {
+        "A": "Iniciar metformina, com cautela e ajuste de dose, considerando a função renal do paciente.",
+        "B": "Metformina é absolutamente contraindicada com TFGe < 60 mL/min/1,73 m², devendo ser evitada.",
+        "C": "Iniciar insulinoterapia obrigatoriamente, pois a metformina é contraindicada com TFGe < 45 mL/min/1,73 m².",
+        "D": "Iniciar sulfonilureia como primeira escolha, pois é mais segura que a metformina na doença renal crônica."
+      },
+      "gabarito": "A",
+      "justificativa": "A metformina é o tratamento farmacológico inicial de escolha no diabetes mellitus tipo 2 e pode ser utilizada em pacientes com doença renal crônica leve a moderada. As recomendações baseadas na TFGe são: TFGe ≥ 45 mL/min/1,73 m² → uso seguro; TFGe entre 30 e 44 mL/min/1,73 m² → pode ser iniciada com cautela, utilizando doses reduzidas e monitorização da função renal; TFGe < 30 mL/min/1,73 m² → contraindicação absoluta. Neste caso, o paciente apresenta TFGe de 38 mL/min/1,73 m², o que permite o início da metformina, com ajuste de dose e acompanhamento. A metformina é preferida porque é eficaz na redução da HbA1c, apresenta baixo risco de hipoglicemia, não causa ganho de peso e possui bom perfil de segurança quando usada adequadamente.\n\nAnálise das alternativas: B) Incorreta. A contraindicação ocorre apenas quando TFGe < 30 mL/min/1,73 m². C) Incorreta. Insulina não é obrigatória neste cenário. D) Incorreta. Sulfonilureias apresentam maior risco de hipoglicemia em pacientes com doença renal crônica."
+    },
+    {
+      "numero": 21,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "A prevenção em saúde é classificada em diferentes níveis, conforme o objetivo da intervenção realizada.",
+      "comando": "Assinale a alternativa em que é feita a correta correlação entre o tipo de prevenção e a intervenção proposta:",
+      "alternativas": {
+        "A": "Prevenção secundária / Prática regular de exercícios aeróbicos em um paciente hígido",
+        "B": "Prevenção primária / Ingesta suficiente de cálcio e vitamina D em um indivíduo sem osteoporose",
+        "C": "Prevenção secundária / Uso de estatina após IAM para reduzir as chances de recorrência do evento",
+        "D": "Prevenção quaternária / Vacinação em escala populacional"
+      },
+      "gabarito": "B",
+      "justificativa": "A prevenção em saúde é classificada em diferentes níveis conforme o objetivo da intervenção. A prevenção primária busca evitar o surgimento da doença em indivíduos ainda saudáveis, atuando sobre fatores de risco ou promovendo hábitos que reduzam a probabilidade de adoecimento. Nesse sentido, a ingesta adequada de cálcio e vitamina D em uma pessoa sem osteoporose é uma medida de prevenção primária, pois visa reduzir o risco de desenvolver a doença no futuro. As demais alternativas estão incorretas: a prática regular de exercícios aeróbicos em um paciente hígido corresponde à prevenção primária, e não secundária; o uso de estatina após infarto agudo do miocárdio é medida de prevenção terciária, pois busca evitar complicações e recorrência em quem já teve a doença; a vacinação em escala populacional é prevenção primária, não quaternária; e a realização de tomografia de tórax de baixa dose em indivíduos de alto risco para câncer de pulmão é prevenção secundária, pois objetiva detectar precocemente a doença."
+    },
+    {
+      "numero": 22,
+      "tipo": "fechada",
+      "imagem": false,
+      "observacao": null,
+      "situacao": "O manejo farmacológico da insuficiência cardíaca apresentou grandes avanços na última década, o que resultou em mudanças significativas nos algoritmos de tratamento.",
+      "comando": "Com base nos preceitos atuais acerca do tratamento da insuficiência cardíaca, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "Os IECA / BRA e a combinação sacubitril-valsartana se mostraram igualmente eficazes em reduzir desfechos clínicos na ICFEr, não havendo hierarquia prescritiva entre esses medicamentos.",
+        "B": "Ainda que a combinação nitrato-hidralazina não tenha se mostrado consistentemente eficaz em reduzir mortalidade na ICFEr, ela pode ser empregada em casos de impossibilidade de uso dos IECA / BRA / ARNI.",
+        "C": "Atenolol, carvedilol e nebivolol são os betabloqueadores preconizados para uso na ICFEr.",
+        "D": "Para fins de escalonamento da terapia farmacológica, é necessário que uma droga de 1ª linha esteja em dose máxima antes que uma droga de 1ª linha adicional seja acrescentada ao esquema terapêutico."
+      },
+      "gabarito": "B",
+      "justificativa": "A combinação nitrato-hidralazina não demonstrou, de forma consistente, redução de mortalidade em pacientes com insuficiência cardíaca com fração de ejeção reduzida (ICFEr) quando comparada às terapias de primeira linha, como os inibidores da enzima conversora de angiotensina (IECA), os bloqueadores do receptor de angiotensina (BRA) e o sacubitril-valsartana. No entanto, essa associação pode ser utilizada em situações específicas, sobretudo quando há contraindicação ou intolerância às classes principais, como em casos de angioedema ou insuficiência renal avançada que impeçam o uso dos IECA/BRA/ARNI. Além disso, há evidência de benefício em determinados subgrupos, como pacientes afrodescendentes, em quem a combinação mostrou redução de mortalidade e hospitalizações em estudos clínicos."
+    },
+    {
+      "numero": 1,
+      "tipo": "aberta",
+      "imagem": false,
+      "observacao": null,
+      "anulada": false,
+      "situacao": "Um homem de 57 anos, com histórico de infarto agudo do miocárdio há 1 ano, procura consulta para acompanhamento. Encontra-se assintomático e em uso regular de atorvastatina em dose otimizada. Seus exames laboratoriais recentes mostram: LDL-colesterol: 96 mg/dL, HDL-colesterol: 39 mg/dL, triglicerídeos: 180 mg/dL, colesterol total: 172 mg/dL.",
+      "comando": "Considerando o caso clínico descrito, responda objetivamente:\na) Qual é a classe de intensidade da estatina atualmente em uso pelo paciente?\nb) Qual é a meta terapêutica de LDL-colesterol recomendada para este paciente?\nc) Qual é a próxima conduta terapêutica farmacológica indicada, caso o LDL-colesterol permaneça acima da meta, apesar do uso da estatina?",
+      "resposta_esperada": "a) Estatina de alta intensidade (ou alta potência).\nb) LDL-colesterol < 70 mg/dL.\nc) Associar ezetimiba."
+    },
+    {
+      "numero": 2,
+      "tipo": "aberta",
+      "imagem": false,
+      "observacao": null,
+      "anulada": false,
+      "situacao": "Embora apresentações atípicas sejam possíveis na doença isquêmica coronariana, a combinação de determinadas características semiológicas denota maior probabilidade dessa condição estar presente.",
+      "comando": "Enumere os três critérios (características da dor torácica) que definem a angina típica (definitiva):",
+      "resposta_esperada": "Dor retroesternal; dor desencadeada por esforço/estresse; dor aliviada com repouso ou nitrato."
+    },
+    {
+      "numero": 3,
+      "tipo": "aberta",
+      "imagem": false,
+      "observacao": null,
+      "anulada": true,
+      "situacao": "Homem de 37 anos, sem diagnósticos previamente conhecidos, comparece a consulta de clínica médica motivado por alteração eletrocardiográfica detectada em avaliação admissional para novo cargo de trabalho. O eletrocardiograma de repouso identificou sinais de sobrecarga do ventrículo esquerdo, sendo compatível com hipertrofia dessa câmara cardíaca. O paciente refere ansiedade nos últimos meses, com prejuízo leve para o sono, porém não apresenta quaisquer queixas relacionadas ao sistema cardiovascular. Ao exame físico, observa-se IMC de 27,5 e pressão arterial de 128/86 mmHg, sem outros achados relevantes.",
+      "comando": "Qual é a condição mais provavelmente apresentada por esse paciente (em relação à pressão arterial) e qual exame complementar é o mais apropriado para comprovar tal diagnóstico?",
+      "resposta_esperada": "Hipertensão mascarada; medida ambulatorial de pressão arterial (MAPA) ou medida residencial de pressão arterial (MRPA) ou medida de PA fora do consultório."
+    }
+  ]
+}
